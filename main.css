@@ -1,0 +1,44 @@
+html{
+	background-color: white;
+}
+header{
+  background-color: #a6ddff;
+}
+abbr{
+  color:greenyellow
+}
+
+footer{
+  background-color: #a6ddff;
+  width:1500px;
+}
+h1{
+	color: black;
+}
+
+h2{
+  color: black;
+}
+body{
+	background-color: #F2F3F4;
+  width:100%;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
